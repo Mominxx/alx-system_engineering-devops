@@ -1,2 +1,2 @@
 #!/bin/bash
-find dir_name '*.html' -exec cp -vuni '{}' ".." ";"
+cp -r -n '*.html' . ..
