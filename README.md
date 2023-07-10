@@ -1,1 +1,1 @@
-This repository contains scripts of various commands
+0-hello_world: prints "Hello, World"
